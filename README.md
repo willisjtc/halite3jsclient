@@ -1,5 +1,8 @@
 # Starter Kit
 
+## Halite III client bot
+This is a modified JavaScript bot from the halite starter packages. This bot does not create moves or have logic to create moves, it only makes a post request to a server that will generate moves and then returns those moves to the game. 
+
 ## Halite III starter kit components
 * MyBot.{extension}, a starter bot outline
 * /hlt directory, which contains modifiable helper functions for your bot
